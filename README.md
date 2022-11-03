@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cy-Manish
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cyber Ops and Security Research
+- 🌱 I’m currently learning Computer Engineering
+- 💞️ I’m looking to collaborate on the topic of Ethical Hacking
 - 🌍 manishkhanalinfo.np
 <!---
 cy-Manish/cy-Manish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
